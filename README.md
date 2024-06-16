@@ -28,15 +28,18 @@ Nasz zespół składa się z doświadczonych programistów i naukowców zajmują
 W tym eksperymencie zbadany został wpływ różnych metod personalizacji na osiągany przez modele klasyfikacji. Zbadane zostalo podejście UserID oraz architektury opartę o miarę Human Bias. Porównane dodatkowo zostały wielkie model językowe (LLM) posiadające miliardy parametrów ze "zwykłymi" modelami językowymi.
 
 **Opis:** 
-
+#### BASELINE
 Baseline jest modelem służącym jedynie jako niepersonalizowane odniesienie, dzięki któremu możliwa jest wizualizacja przyrostu.
 
 <img src="Photos/baseline.jpg" alt="Baseline" style="width: 400px; height: auto;">
 
+#### ONEHOT
 OneHot — model ten jest niezwykle podobny do omawianego wcześniej podejścia z użyciem
 User ID. W tym przypadku wartość User ID jest dodawana w postaci wektora kodowanego w sposób one-hot do wektora osadzeń pochodzącego z modelu językowego.
 
 <img src="Photos/OneHot.jpg" alt="OneHot" style="width: 650px; height: auto;">
+
+#### HUBI-FORMULA
 
 HuBi-Formula - architektura opierająca się na wyliczonej wcześniej wartości Human Bias.
 Struktura tego modelu jest identyczna do modelu OneHot, różniąca się obecnością wspomnianej
@@ -44,12 +47,16 @@ miary HB zamiast wartości User ID.
 
 <img src="Photos/Formula.jpg" alt="Formula" style="width: 650px; height: auto;">
 
+#### HUBI-SIMPLE
+
 HuBi-Simple - jest już pełnym modelem predykcyjnym, bazowanym na idei zaczerpniętej
 z dziedziny systemów rekomendacyjnych. Do uzyskania predykowanej etykiety model wykorzystuje trzy różne komponenty, są nimi wspomniane wcześniej zamrożone osadzenia z modelu
 językowego, wyuczalna wartość HB oraz wartość Word-Bias. Zmianą w porównaniu do wcześniejszych modeli jest zdolność miary HB do nauki podczas etapu treningu. Nie jest ona już
 prekalkulowana przed głównym treningiem modelu
 
 <img src="Photos/Simple.jpg" alt="Simple" style="width: 650px; height: auto;">
+
+#### HUBI-MEDIUM
 
 HuBi-Medium to model również inspirowany metodami systemów rekomendacyjnych, a dokładnie metodą Neural Collaborative Filtering. W porównaniu do modelu HuBi-Simple
 tworzy on wielowymiarowy wektor osadzeń zawierający informacje o użytkowniku. Dodatkowo
