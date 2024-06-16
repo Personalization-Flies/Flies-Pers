@@ -28,6 +28,7 @@ Nasz zespół składa się z doświadczonych programistów i naukowców zajmują
 W tym eksperymencie zbadany został wpływ różnych metod personalizacji na osiągany przez modele klasyfikacji. Zbadane zostalo podejście UserID oraz architektury opartę o miarę Human Bias. Porównane dodatkowo zostały wielkie model językowe (LLM) posiadające miliardy parametrów ze "zwykłymi" modelami językowymi.
 
 **Opis:** 
+Przedstawione schematy UserID pochodzą z artykułu naukowego : [Woźniak, 2024](https://doi.org/10.48550/arXiv.2402.09269)
 #### UserID z głową klasyfikacyjną
 
 <img src="Photos/UserID-1.png" alt="Baseline" style="width: 400px; height: auto;">
