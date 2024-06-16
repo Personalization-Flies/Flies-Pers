@@ -1,8 +1,3 @@
----
-title: Nasze Eksperymenty
-description: Przegląd projektów i eksperymentów zespołu AI.
----
-
 # Nasze Eksperymenty
 
 Witaj na stronie przedstawiającej nasze najnowsze eksperymenty w dziedzinie sztucznej inteligencji. Poniżej znajdziesz szczegółowy opis każdego z projektów, nad którymi pracowaliśmy.
