@@ -30,17 +30,7 @@ Nasz zespół składa się z doświadczonych programistów i naukowców zajmują
 **Opis:** 
 
 **Wyniki:** 
-
-**Więcej informacji:**
-
-### Eksperyment 3: Klasyfikacja Obrazów
-
-**Cel:** 
-
-**Opis:** 
-
-**Wyniki:**
-
+![Wykres_1]("Photos/Dawid.png")
 **Więcej informacji:**
 
 ## Kontakt
@@ -48,4 +38,3 @@ Nasz zespół składa się z doświadczonych programistów i naukowców zajmują
 Jeśli masz pytania dotyczące naszych projektów, prosimy o kontakt:
 
 - Email: [kontakt@naszazespół.com](mailto:kontakt@naszazespół.com)
-- Telefon: +48 123 456 
