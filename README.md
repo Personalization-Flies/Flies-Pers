@@ -28,7 +28,15 @@ Nasz zespół składa się z doświadczonych programistów i naukowców zajmują
 W tym eksperymencie zbadany został wpływ różnych metod personalizacji na osiągany przez modele klasyfikacji. Zbadane zostalo podejście UserID oraz architektury opartę o miarę Human Bias. Porównane dodatkowo zostały wielkie model językowe (LLM) posiadające miliardy parametrów ze "zwykłymi" modelami językowymi.
 
 **Opis:** 
+#### UserID z głową klasyfikacyjną
 
+<img src="Photos/UserID-1.png" alt="Baseline" style="width: 400px; height: auto;">
+
+#### UserID z głową generatywną
+
+<img src="Photos/UserID-2.png" alt="Baseline" style="width: 400px; height: auto;">
+
+Przedstawione schematy architektur HuBi pochodzą z artykułu naukowego [Kazienko, 2023](https://doi.org/10.1016/j.inffus.2023.01.010)
 Baseline jest modelem służącym jedynie jako niepersonalizowane odniesienie, dzięki któremu możliwa jest wizualizacja przyrostu.
 
 <img src="Photos/baseline.jpg" alt="Baseline" style="width: 400px; height: auto;">
@@ -67,15 +75,6 @@ jego długość jest hiperparametrem, co pozwala na dostosowanie go do swoich po
 <img src="Photos/Kasia.png" alt="Wykres_zysku hejtu" style="width: 1200px; height: 550px;">
 
 <img src="Photos/Miki.png" alt="Wykres_wydźwięku" style="width: 1200px; height: 550px;">
-**Więcej informacji:**
-
 
 **Ogólne wnioski:**
 W zależności od rodzaju wykonywanej klasyfikacji oraz wykorzystywanego zbioru danych, poszczególne metody diametralnie różniły się oferowanym zyskiem wydajności. Biorąc pod uwagę zysk ze wszystkich zbiorów danych w obrębie danego zadania klasyfikacji, dla humoru najlepszymi metodami były HuBiMedium i UserID(LM), dla wydźwięku były to Onehot, HuBiFormula oraz HuBiSimple, dla emocji był to przede wszystkim UserID(LLM), a dla Hejtu UserID(LM).
-
-W celu lepszego zrozumienia wykorzystanych metod zapraszamy na naszą stronę Github Pages (kod QR na górze).
-## Kontakt
-
-Jeśli masz pytania dotyczące naszych projektów, prosimy o kontakt:
-
-- Email: [kontakt@naszazespół.com](mailto:kontakt@naszazespół.com)
