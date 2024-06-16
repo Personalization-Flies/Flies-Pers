@@ -28,6 +28,8 @@ Nasz zespół składa się z doświadczonych programistów i naukowców zajmują
 **Cel:** 
 
 **Opis:** 
+
+
 Baseline jest modelem służącym jedynie jako niepersonalizowane odniesienie, dzięki któremu możliwa jest wizualizacja przyrostu.
 
 <img src="Photos/baseline.jpg" alt="Baseline" style="width: 400px; height: auto;">
