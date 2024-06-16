@@ -25,7 +25,7 @@ Nasz zespół składa się z doświadczonych programistów i naukowców zajmują
 
 ### Eksperyment 2: Personalizacja w zadaniu klasyfikacji
 
-**Cel:** 
+W tym eksperymencie zbadany został wpływ różnych metod personalizacji na osiągany przez modele klasyfikacji. Zbadane zostalo podejście UserID oraz architektury opartę o miarę Human Bias. Porównane dodatkowo zostały wielkie model językowe (LLM) posiadające miliardy parametrów z modelami znacznie mniejszymi nazywanymi w obrębie naszych prac jako modele językowe (LM).
 
 **Opis:** 
 
