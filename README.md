@@ -30,7 +30,10 @@ Nasz zespół składa się z doświadczonych programistów i naukowców zajmują
 **Opis:** 
 
 **Wyniki:** 
-![Wykres_1](Photos/Dawid.png)
+![Wykres_zysku emocji](Photos/Dawid.png)
+![Wykres_zysku humoru](Photos/Michal.png)
+![Wykres_zysku hejtu](Photos/Kasia.png)
+![Wykres_wydźwięku](Photos/Miki.png)
 **Więcej informacji:**
 
 ## Kontakt
