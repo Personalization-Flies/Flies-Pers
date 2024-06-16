@@ -23,6 +23,8 @@ Nasz zespół składa się z doświadczonych programistów i naukowców zajmują
 
 **Wyniki:**
 
+Pomimo wielu podejść i eksperymentów na różnych modelach, nie udało się zmusić modelu do generowania rymujących się tekstów. Najczęstsze wyniki to: model zacinający się - zwracający ciągle te same słowya lub model zwracający dokładnie te teksty, które pojawiły się w zbiorze treningowym. Dla większych modeli (voicelab/trurl-2-7b) udało się osiągnąć generowanie tekstu trzymającego sens o w stylistyce wierszy, ale najważniejszego efektu, czyli rymowalności, nie udało się osiągnąć.
+
 ### Eksperyment 2: Personalizacja w zadaniu klasyfikacji
 
 W tym eksperymencie zbadany został wpływ różnych metod personalizacji na osiągany przez modele klasyfikacji. Zbadane zostalo podejście UserID oraz architektury opartę o miarę Human Bias. Porównane dodatkowo zostały wielkie model językowe (LLM) posiadające miliardy parametrów ze "zwykłymi" modelami językowymi.
