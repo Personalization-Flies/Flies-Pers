@@ -30,7 +30,7 @@ Nasz zespół składa się z doświadczonych programistów i naukowców zajmują
 **Opis:** 
 
 **Wyniki:** 
-![Wykres_1]("Photos/Dawid.png")
+![Wykres_1](Photos/Dawid.png)
 **Więcej informacji:**
 
 ## Kontakt
