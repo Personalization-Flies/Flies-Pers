@@ -28,7 +28,7 @@ Nasz zespół składa się z doświadczonych programistów i naukowców zajmują
 **Cel:** 
 
 **Opis:** 
-<img src="Photos/Baseline.jpg" alt="Baseline" style="width: 900px; height: auto;">
+<img src="Photos/baseline.jpg" alt="Baseline" style="width: 900px; height: auto;">
 <img src="Photos/OneHot.jpg" alt="OneHot" style="width: 900px; height: auto;">
 <img src="Photos/Formula.jpg" alt="Formula" style="width: 900px; height: auto;">
 <img src="Photos/Simple.jpg" alt="Simple" style="width: 900px; height: auto;">
