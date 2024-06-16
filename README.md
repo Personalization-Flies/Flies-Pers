@@ -31,13 +31,13 @@ Nasz zespół składa się z doświadczonych programistów i naukowców zajmują
 
 **Wyniki:** 
 
-<img src="Photos/Dawid.png" alt="Wykres_zysku emocji" style="width: 1200px; height: 800px;">
+<img src="Photos/Dawid.png" alt="Wykres_zysku emocji" style="width: 1200px; height: 550px;">
 
-<img src="Photos/Michal.png" alt="Wykres_zysku humoru" style="width: 1200px; height: 800px;">
+<img src="Photos/Michal.png" alt="Wykres_zysku humoru" style="width: 1200px; height: 550px;">
 
-<img src="Photos/Kasia.png" alt="Wykres_zysku hejtu" style="width: 1200px; height: 800px;">
+<img src="Photos/Kasia.png" alt="Wykres_zysku hejtu" style="width: 1200px; height: 550px;">
 
-<img src="Photos/Miki.png" alt="Wykres_wydźwięku" style="width: 1200px; height: 800px;">
+<img src="Photos/Miki.png" alt="Wykres_wydźwięku" style="width: 1200px; height: 550px;">
 **Więcej informacji:**
 
 ## Kontakt
