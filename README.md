@@ -29,7 +29,6 @@ W tym eksperymencie zbadany został wpływ różnych metod personalizacji na osi
 
 **Opis:** 
 
-
 Baseline jest modelem służącym jedynie jako niepersonalizowane odniesienie, dzięki któremu możliwa jest wizualizacja przyrostu.
 
 <img src="Photos/baseline.jpg" alt="Baseline" style="width: 400px; height: auto;">
@@ -70,6 +69,11 @@ jego długość jest hiperparametrem, co pozwala na dostosowanie go do swoich po
 <img src="Photos/Miki.png" alt="Wykres_wydźwięku" style="width: 1200px; height: 550px;">
 **Więcej informacji:**
 
+
+**Ogólne wnioski:**
+W zależności od rodzaju wykonywanej klasyfikacji oraz wykorzystywanego zbioru danych, poszczególne metody diametralnie różniły się oferowanym zyskiem wydajności. Biorąc pod uwagę zysk ze wszystkich zbiorów danych w obrębie danego zadania klasyfikacji, dla humoru najlepszymi metodami były HuBiMedium i UserID(LM), dla wydźwięku były to Onehot, HuBiFormula oraz HuBiSimple, dla emocji był to przede wszystkim UserID(LLM), a dla Hejtu UserID(LM).
+
+W celu lepszego zrozumienia wykorzystanych metod zapraszamy na naszą stronę Github Pages (kod QR na górze).
 ## Kontakt
 
 Jeśli masz pytania dotyczące naszych projektów, prosimy o kontakt:
